@@ -1,0 +1,3 @@
+[submodule "angular-essential-training"]
+	path = angular-essential-training
+	url = https://github.com/coursefiles/angular-essential-training.git
